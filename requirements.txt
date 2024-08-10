@@ -13,53 +13,53 @@ requests==2.32.2
 aiohttp==3.9.5
 httpx
 
-# AI libraries
-openai
-anthropic
-google-generativeai
+# # AI libraries
+# openai
+# anthropic
+# google-generativeai
 
-# Database
-pymongo
-peewee
-SQLAlchemy
-boto3
-redis
-sqlmodel
-chromadb
-psycopg2-binary
+# # Database
+# pymongo
+# peewee
+# SQLAlchemy
+# boto3
+# redis
+# sqlmodel
+# chromadb
+# psycopg2-binary
 
-# Observability
-langfuse
-ddtrace
+# # Observability
+# langfuse
+# ddtrace
 
-# ML libraries
-torch
-numpy
-pandas
+# # ML libraries
+# torch
+# numpy
+# pandas
 
-xgboost
-scikit-learn
+# xgboost
+# scikit-learn
 
-# NLP libraries
-sentence-transformers
-transformers
-tokenizers
-nltk
-tiktoken
+# # NLP libraries
+# sentence-transformers
+# transformers
+# tokenizers
+# nltk
+# tiktoken
 
-# Image processing
-Pillow
-opencv-python
+# # Image processing
+# Pillow
+# opencv-python
 
-# Visualization
-matplotlib
-seaborn
+# # Visualization
+# matplotlib
+# seaborn
 
-# Web scraping
-selenium
-playwright
-beautifulsoup4
+# # Web scraping
+# selenium
+# playwright
+# beautifulsoup4
 
-# Llama Index for RAG
-llama-index
-llama-index-llms-ollama
+# # Llama Index for RAG
+# llama-index
+# llama-index-llms-ollama

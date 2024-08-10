@@ -35,6 +35,6 @@ COPY . .
 
 # Expose the port
 ENV HOST="0.0.0.0"
-ENV PORT="9099"
+ENV PORT="9098"
 
 ENTRYPOINT [ "bash", "start.sh" ]
