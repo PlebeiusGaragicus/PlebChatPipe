@@ -1,1 +1,3 @@
-# pardon the dust
+```sh
+sh run.sh
+```
